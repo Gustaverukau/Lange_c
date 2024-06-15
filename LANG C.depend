@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1718419302 source:c:\users\kichefu chefu store\desktop\lang c\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1718332595 source:c:\users\kichefu chefu store\desktop\lang c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"fonction.h"
+
+1718334204 c:\users\kichefu chefu store\desktop\lang c\fonction.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
